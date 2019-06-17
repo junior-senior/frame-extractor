@@ -1,6 +1,6 @@
 import cv2
 import os
-path = 'Blue Lid/'
+path = ''
 count = 0
 for files in os.listdir(path):
     print(files)
